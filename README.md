@@ -11,6 +11,8 @@ To use it:
 1. Clone the repo. Open a terminal and enter </br> `git clone https://github.com/HectorNBL/Hector--Solana-NFT-Generator.git`
 2. Open your IDE of choice. I used VSCode and open the folder containing the repo (the `Hector Solana NFTs` folder. It's nested within the Hector...Generator folder)
 3. Paste you folders containing your layers into the Layers folder in the repo.
+> **Note**
+> The rarity is set with the name of each layer after the `#` symbol with a number. Example: Green#20.png.
 4. Edit the content of the `config.js` file. Here are the parts you will want to change
 ```javascript
   const names = "NFT-Name"; 
