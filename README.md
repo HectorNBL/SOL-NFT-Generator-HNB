@@ -5,7 +5,7 @@ Generate images and json files with the current [Metaplex Metadata Standard](htt
 
 This is originally the [Hashlips Art Generator](https://github.com/HashLips/hashlips_art_engine) and I've changed the config so that it fits with the current token standard for Solana.
 
-Similar to the original Hashlips Generator you must have your layers withing folder with the name you want to give to each layer. Your system must also have yarn and node.
+Similar to the original Hashlips Generator you must have your layers folder with the name you want to give to each layer. Your system must also have yarn and node.
 
 To use it:
 1. Clone the repo. Open a terminal and enter </br> `git clone https://github.com/HectorNBL/Hector--Solana-NFT-Generator.git`
